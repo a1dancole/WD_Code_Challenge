@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  zombiedice.server:
+    image: ${DOCKER_REGISTRY-}zombiediceserver
+    build:
+      context: .
+      dockerfile: ZombieDice.Server/Dockerfile
+  rabbitmq:
+    image: "rabbitmq:3-management"
+    ports:
+        - "15672:15672/tcp"
+        - "5672:5672"

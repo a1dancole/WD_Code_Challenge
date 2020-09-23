@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZombieDice.App", "ZombieDice\ZombieDice.App.csproj", "{6FD83114-CB0D-4A02-A29C-0C9A9B236762}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZombieDice.Shared", "ZombieDice.Shared\ZombieDice.Shared.csproj", "{4BC4EEB4-1959-4851-93C1-0212AF93D9C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZombieDice.Server", "ZombieDice.Server\ZombieDice.Server.csproj", "{7E037D50-7987-4934-B766-5C1935800784}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{CB132326-8E48-4068-AE92-6A27DC492954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FD83114-CB0D-4A02-A29C-0C9A9B236762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD83114-CB0D-4A02-A29C-0C9A9B236762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD83114-CB0D-4A02-A29C-0C9A9B236762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD83114-CB0D-4A02-A29C-0C9A9B236762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC4EEB4-1959-4851-93C1-0212AF93D9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC4EEB4-1959-4851-93C1-0212AF93D9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC4EEB4-1959-4851-93C1-0212AF93D9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC4EEB4-1959-4851-93C1-0212AF93D9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E037D50-7987-4934-B766-5C1935800784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E037D50-7987-4934-B766-5C1935800784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E037D50-7987-4934-B766-5C1935800784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E037D50-7987-4934-B766-5C1935800784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB132326-8E48-4068-AE92-6A27DC492954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB132326-8E48-4068-AE92-6A27DC492954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB132326-8E48-4068-AE92-6A27DC492954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB132326-8E48-4068-AE92-6A27DC492954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F7C6A36-7170-4A74-9902-6541D5C6FE2D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+F:\Code Projects\Zombie Dice\ZombieDice\ZombieDice.Shared\bin\Debug\netcoreapp3.1\ZombieDice.Shared.deps.json
+F:\Code Projects\Zombie Dice\ZombieDice\ZombieDice.Shared\bin\Debug\netcoreapp3.1\ZombieDice.Shared.dll
+F:\Code Projects\Zombie Dice\ZombieDice\ZombieDice.Shared\bin\Debug\netcoreapp3.1\ZombieDice.Shared.pdb
+F:\Code Projects\Zombie Dice\ZombieDice\ZombieDice.Shared\obj\Debug\netcoreapp3.1\ZombieDice.Shared.AssemblyInfoInputs.cache
+F:\Code Projects\Zombie Dice\ZombieDice\ZombieDice.Shared\obj\Debug\netcoreapp3.1\ZombieDice.Shared.AssemblyInfo.cs
+F:\Code Projects\Zombie Dice\ZombieDice\ZombieDice.Shared\obj\Debug\netcoreapp3.1\ZombieDice.Shared.csproj.CoreCompileInputs.cache
+F:\Code Projects\Zombie Dice\ZombieDice\ZombieDice.Shared\obj\Debug\netcoreapp3.1\ZombieDice.Shared.dll
+F:\Code Projects\Zombie Dice\ZombieDice\ZombieDice.Shared\obj\Debug\netcoreapp3.1\ZombieDice.Shared.pdb
